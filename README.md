@@ -1,2 +1,2 @@
 # EntriRepo
-I have created an Excel sheet about sales analysis of bikes and cars.Various elements of excel have been used for this purpose.
+I have created an Excel sheet about sales analysis of bikes and cars.Various elements of excel have been used for this purpose.The excel sheet contain various columns like ID,marital status, gender ,income,region,occupation,purchased bike etc.This project involves cleaning and preprocessing the dataset,making pivot tables and charts.A dashboard is also created to make visualisations on various trends and insights related to the dataset.
